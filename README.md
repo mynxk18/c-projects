@@ -1,2 +1,6 @@
-# c-projects
-Learning C from scratch — small projects &amp; experiments
+## 🗂️ Projects
+
+### 🧮 Calculator
+Basic calculator in C — add, subtract, multiply, divide
+
+
